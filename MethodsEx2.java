@@ -1,4 +1,4 @@
-package ymt111_week06;
+package methodexp;
 
 import java.util.Scanner;
 
